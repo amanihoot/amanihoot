@@ -22,7 +22,7 @@ public class TimeProject {
        String Output = Hours + Minutes;
        
         
-       JOptionPane.showMessageDialog(null, Output);
+       JOptionPane.showMessageDialog(null, Output, "Results");
        System.exit(0);
     }
 }
