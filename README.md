@@ -5,7 +5,7 @@
 I'm Amani, I'm a computer science Graduate from the University of Houston - Downtown!</div>  
   
 
-- 🔭 I’m currently working on [A class project in Android Studio](https://github.com/amanihoot/HCIAppProject)  
+- 🔭 I’m currently working on A Personal Portfolio  
   
 
 - 🌱 I’m currently learning Figma  
