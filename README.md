@@ -11,9 +11,6 @@ I'm Amani, I'm a computer science Graduate from the University of Houston - Down
 - 🌱 I’m currently learning Figma  
   
 
-- ❓ Ask me about anything related to Front-End and UI/UX  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
